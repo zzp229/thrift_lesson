@@ -1,3 +1,3 @@
-### linux基础课
+### linux基础
 
-### 6.thrift教程
+### 6.thrift
